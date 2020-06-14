@@ -5,6 +5,7 @@ Created by Haoxiang Zhong.
 ## Introduction
 Improved RT-VITAL is deep learning based tracking algorithm. And our work is greatly inspired by [RT-MDNet](https://github.com/IlchaeJung/RT-MDNet) as well as [VITAL](https://github.com/ybsong00/Vital_release).  
 The pipeline of this tracker is based on [RT-MDNet](https://github.com/IlchaeJung/RT-MDNet).
+
 ![Visual Results of Our Tracker](visual_results.jpg "Visual Results of Our Tracker")
 
 
