@@ -1,4 +1,4 @@
-# impr-RT-VITAL: Improved Real-Time Tracking via Adversarial Learning
+# impr-RT-VITAL: Improved Real-Time Visual Tracking via Adversarial Learning
 
 Created by Haoxiang Zhong.
 
@@ -41,4 +41,27 @@ We **do not** recommend test our tracker on VOT benchmark, because these data ar
 
 ### Learning RT-MDNet
 Please refer to [RT-MDNet](https://github.com/IlchaeJung/RT-MDNet)  for more details on traning.
+
+## Citation
+If you're using this code for a publication, please cite our paper and RT-MDNet
+```
+@INPROCEEDINGS{impr-RT-VITAL,  
+author={H. {Zhong} and X. {Yan} and Y. {Jiang} and S. {Xia}},
+booktitle={ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},   
+title={Improved Real-Time Visual Tracking via Adversarial Learning},
+year={2020},  
+volume={},  
+number={},  
+pages={1853-1857},}
+```
+```
+@InProceedings{rtmdnet,
+author = {Jung, Ilchae and Son, Jeany and Baek, Mooyeol and Han, Bohyung},
+title = {Real-Time MDNet},
+booktitle = {European Conference on Computer Vision (ECCV)},
+month = {Sept},
+year = {2018}
+}
+```
+
   
